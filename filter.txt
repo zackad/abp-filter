@@ -1,0 +1,3 @@
+mangafox.me##div[class^="mfad"]
+mangafox.me##body>a[target="_blank"]
+*.uzone.id
