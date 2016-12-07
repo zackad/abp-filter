@@ -1,3 +1,6 @@
+[Adblock Plus 2.0]
+! Custom Filter for personal use
+!
 mangafox.me##div[class^="mfad"]
 mangafox.me##body>a[target="_blank"]
 *.uzone.id
