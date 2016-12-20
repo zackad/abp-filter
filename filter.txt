@@ -3,4 +3,5 @@
 !
 mangafox.me##div[class^="mfad"]
 mangafox.me##body>a[target="_blank"]
+||h.mfcdn.net/store/mfbanners/*
 *.uzone.id
