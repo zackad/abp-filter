@@ -2,8 +2,9 @@
 ! Custom Filter for personal use
 !
 mangafox.me##div[class^="mfad"]
-mangafox.me##body>a[target="_blank"]
 mangafox.me###ad_top
+mangafox.me###body>a
+mangafox.me##body>a[target="_blank"]
 ||h.mfcdn.net/store/mfbanners/*
 *.uzone.id
 https://s.kaskus.id/user/avatar/2017/07/14/avatar9829930_1.gif
