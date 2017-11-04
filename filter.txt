@@ -1,6 +1,7 @@
 [Adblock Plus 2.0]
 ! Custom Filter for personal use
 !
+*.lazada.co.id
 mangafox.me##div[class^="mfad"]
 mangafox.me###ad_top
 mangafox.me###body>a
