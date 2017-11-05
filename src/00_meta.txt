@@ -1,0 +1,3 @@
+[Adblock Plus 2.0]
+! Custom adblock filter for personal use
+!

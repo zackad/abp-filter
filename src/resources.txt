@@ -1,0 +1,3 @@
+! --------------- Block resources such as images, audio, etc ---------------- !
+||h.mfcdn.net/store/mfbanners/*
+https://s.kaskus.id/user/avatar/2017/07/14/avatar9829930_1.gif

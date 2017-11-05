@@ -1,0 +1,4 @@
+! ---------------------------- Blacklist domain ----------------------------- !
+||lazada.co.id^
+||uzone.id^
+microsite.kaskus.co.id
