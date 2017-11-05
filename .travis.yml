@@ -1,0 +1,21 @@
+language: ruby
+
+branches:
+  only:
+    - master
+
+env:
+  global:
+    - secure: "RWL/wuv56eP4v8xLv6nwTjJw5l4B+NmQA76a4+Flvq16QK0BamwzsCwutxHnNuBYz0CoV31vHy1EtAfqzDQQkjzWbNXbk/IG2pbe6FLEW7GTgiwTAGcxt1n8r6J/LkyB10iS7UzEmKVkOr5E3Nc7sk0SybiQRmDpSM+GLJpQo/pvt7EL1pOufaKkbVyNQkA91x6G9Z2hMgxTHOteDt60clEBA1hH4rgDHtx0/T8cws3gHBeARksCdnZZLy5AMYT+MyuoUIM4eRqKaBjYleGwV96/PdBk/V6jhLGscKBErdcpI9UHNcjvG7TFDvr99m/krBF/L5FoTdr5LA+EznGxxv8+SrVmGhuzUy2kWX3cZCXjIlcORKpf+yQco9NiwlDOEkDS2FKObEYcYVYvNve+XwkO+g6NYvVDj2BzqNX/qeVW+Bm6qQjbf0/AJZnsnETzHs4H/N+YkUbnsgJIrNjn+ukO9R9eKRL2ik87IwRkGPeZyN+3g2N3IlqFSQbIX1e/5+C3XJTKarcfYFQtBZWbzJokcGxDeyqM9qcYgnWADPpgu0Xvy/lWyTeNz2psn4fW/IF6YlLbGbdeza7Y7ZQ0dlAzEZIjunwySXkr6WZbI8rf8EqwBK3ggphCHrfyBfor0BaGqZahwrAwX78ST7s2B0XOdz21+4EpJzFMRxZra6k="
+
+install: true
+
+before_script:
+  - git config --global user.email "travis@travis-ci.org"
+  - git config --global user.name "TravisCI"
+  - git config --global push.default "matching"
+
+script:
+  - git clone -b gh-pages "https://$GITHUB_TOKEN@github.com/zackad/abp-filter" output
+  - cat src/* > output/zackfilter.txt
+  - cd output && git add --all . && git commit -m "Publishing revision $(git --git-dir ../.git rev-parse --short HEAD)" && git push --force origin gh-pages
