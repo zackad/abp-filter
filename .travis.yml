@@ -16,6 +16,6 @@ script:
   - cat src/* > output/zackfilter.txt
   - cd output
     \&& git add --all .
-    \&& if [ "$(git status --porcelain)" ]; then exit 0; fi
+    \&& if ! [ "$(git status --porcelain)" ]; then exit 0; fi
     \&& git commit -m "Publishing revision $(git --git-dir ../.git rev-parse --short HEAD)"
     \&& git push --force origin gh-pages
