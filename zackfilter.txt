@@ -12,6 +12,7 @@ mangafox.me###mfad600x90
 mangafox.me##body>a
 mangafox.me##body>a[target="_blank"]
 kaskus.co.id###div_tl1
+kaskus.co.id##.row.c-ktkm--widget
 www.kaskus.co.id###outbrain_widget_0
 www.reddit.com##div.acceptable-ads
 ! --------------- Block resources such as images, audio, etc ---------------- !
