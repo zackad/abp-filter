@@ -18,6 +18,7 @@ mangafox.la##body>a
 mangafox.la##body>a[target="_blank"]
 kaskus.co.id###div_tl1
 kaskus.co.id##.row.c-ktkm--widget
+www.jne.co.id###popup_jne
 www.kaskus.co.id###outbrain_widget_0
 www.reddit.com##div.acceptable-ads
 ! --------------- Block resources such as images, audio, etc ---------------- !
