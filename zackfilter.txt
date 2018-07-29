@@ -13,6 +13,7 @@ fanfox.net##body>a
 fanfox.net##body>a[target="_blank"]
 kaskus.co.id###div_tl1
 kaskus.co.id###recommended-for-you
+kaskus.co.id##.postlist__comment
 kaskus.co.id##.row.c-ktkm--widget
 jne.co.id###banner-content
 jne.co.id###camera_wrap_2
