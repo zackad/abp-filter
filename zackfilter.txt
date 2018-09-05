@@ -5,6 +5,7 @@
 ||lazada.co.id^
 ||uzone.id^
 microsite.kaskus.co.id
+tv.kaskus.co.id
 ! ----------------- Block/hide specific elements from page ------------------ !
 fanfox.net##div[class^="mfad"]
 fanfox.net###ad_top
