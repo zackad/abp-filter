@@ -2,4 +2,5 @@
 ||lazada.co.id^
 ||uzone.id^
 microsite.kaskus.co.id
+podcast.kaskus.co.id
 tv.kaskus.co.id
