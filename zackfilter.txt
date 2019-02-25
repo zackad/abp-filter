@@ -4,6 +4,7 @@
 ! ---------------------------- Blacklist domain ----------------------------- !
 ||lazada.co.id^
 ||uzone.id^
+dable.io
 microsite.kaskus.co.id
 podcast.kaskus.co.id
 tv.kaskus.co.id
@@ -14,6 +15,7 @@ fanfox.net###mfad600x90
 fanfox.net##body>a
 fanfox.net##body>a[target="_blank"]
 kaskus.co.id###div_tl1
+kaskus.co.id###div[id^="dablewidget_"]
 kaskus.co.id###podcastGlobalWidgetContainer
 kaskus.co.id###recommended-for-you
 kaskus.co.id##.postlist__comment
