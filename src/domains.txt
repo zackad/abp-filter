@@ -1,7 +1,0 @@
-! ---------------------------- Blacklist domain ----------------------------- !
-||lazada.co.id^
-||uzone.id^
-dable.io
-microsite.kaskus.co.id
-podcast.kaskus.co.id
-tv.kaskus.co.id
