@@ -1,6 +1,7 @@
 [Adblock Plus 2.0]
 ! Custom adblock filter for personal use
 !
+
 ! ---------------------------- Blacklist domain ----------------------------- !
 ||lazada.co.id^
 ||uzone.id^
@@ -8,12 +9,15 @@ dable.io
 microsite.kaskus.co.id
 podcast.kaskus.co.id
 tv.kaskus.co.id
+
 ! ----------------- Block/hide specific elements from page ------------------ !
 fanfox.net##div[class^="mfad"]
 fanfox.net###ad_top
 fanfox.net###mfad600x90
 fanfox.net##body>a
 fanfox.net##body>a[target="_blank"]
+github.com##.flash-messages
+github.com##.copilotPreview__container
 kaskus.co.id###div_tl1
 kaskus.co.id###div[id^="dablewidget_"]
 kaskus.co.id###podcastGlobalWidgetContainer
@@ -25,6 +29,7 @@ jne.co.id###camera_wrap_2
 jne.co.id###popup_jne
 www.kaskus.co.id###outbrain_widget_0
 www.reddit.com##div.acceptable-ads
+
 ! --------------- Block resources such as images, audio, etc ---------------- !
 ||h.mfcdn.net/store/mfbanners/*
 https://s.kaskus.id/user/avatar/2017/07/14/avatar9829930_1.gif
