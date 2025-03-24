@@ -30,6 +30,13 @@ jne.co.id###popup_jne
 www.kaskus.co.id###outbrain_widget_0
 www.reddit.com##div.acceptable-ads
 
+! 13 Jan 2025 https://github.com
+github.com##.copilotPreview__container
+github.com##.mb-4.flash-warn.flash
+
+! 24 Mar 2025 https://dev.to
+dev.to###page-content-inner > .crayons-layout__comments-billboard.pb-4.js-billboard-container > div
+
 ! --------------- Block resources such as images, audio, etc ---------------- !
 ||h.mfcdn.net/store/mfbanners/*
 https://s.kaskus.id/user/avatar/2017/07/14/avatar9829930_1.gif
