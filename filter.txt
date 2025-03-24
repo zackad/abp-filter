@@ -34,8 +34,13 @@ www.reddit.com##div.acceptable-ads
 github.com##.copilotPreview__container
 github.com##.mb-4.flash-warn.flash
 
-! 24 Mar 2025 https://dev.to
-dev.to###page-content-inner > .crayons-layout__comments-billboard.pb-4.js-billboard-container > div
+! Feb 3, 2025 https://archivebox.xrfce.xyz
+##.jetbrains-cookies-backdrop
+##.jetbrains-cookies-banner-4
+
+! Mar 14, 2025 https://archivebox.xrfce.xyz
+##.crayons-layout__comments-billboard.pb-4.js-billboard-container
+
 
 ! --------------- Block resources such as images, audio, etc ---------------- !
 ||h.mfcdn.net/store/mfbanners/*
