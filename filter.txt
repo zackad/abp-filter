@@ -41,6 +41,8 @@ github.com##.mb-4.flash-warn.flash
 ! Mar 14, 2025 https://archivebox.xrfce.xyz
 ##.crayons-layout__comments-billboard.pb-4.js-billboard-container
 
+! 26 Jul 2025 https://archivebox.xrfce.xyz
+##.yc.bh.tm.un.bw
 
 ! --------------- Block resources such as images, audio, etc ---------------- !
 ||h.mfcdn.net/store/mfbanners/*
