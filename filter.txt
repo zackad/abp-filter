@@ -44,6 +44,9 @@ github.com##.mb-4.flash-warn.flash
 ! 26 Jul 2025 https://archivebox.xrfce.xyz
 ##.yc.bh.tm.un.bw
 
+! Aug 18, 2025 https://www.tokopedia.com
+www.tokopedia.com##.e1nc1fa21.css-12g0255-unf-modal
+
 ! --------------- Block resources such as images, audio, etc ---------------- !
 ||h.mfcdn.net/store/mfbanners/*
 https://s.kaskus.id/user/avatar/2017/07/14/avatar9829930_1.gif
