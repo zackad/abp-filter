@@ -33,6 +33,7 @@ www.reddit.com##div.acceptable-ads
 ! 13 Jan 2025 https://github.com
 github.com##.copilotPreview__container
 github.com##.mb-4.flash-warn.flash
+github.com##.mb-5.feed-right-sidebar
 
 ! Feb 3, 2025 https://archivebox.xrfce.xyz
 ##.jetbrains-cookies-backdrop
