@@ -51,3 +51,6 @@ www.tokopedia.com##.e1nc1fa21.css-12g0255-unf-modal
 ! --------------- Block resources such as images, audio, etc ---------------- !
 ||h.mfcdn.net/store/mfbanners/*
 https://s.kaskus.id/user/avatar/2017/07/14/avatar9829930_1.gif
+
+! 8 Mar 2026 https://github.com
+github.com##.tmp-mb-5.feed-right-sidebar
